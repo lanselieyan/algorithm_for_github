@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ba23fc1-0d86-448a-b8b2-2d3a42f72cba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/滑动窗口/medium713乘积小于 K 的子数组.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/滑动窗口/medium1004最大连续1的个数 III.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712470752149</updated>
       <workItem from="1712470753731" duration="2639000" />
-      <workItem from="1712475897631" duration="10825000" />
+      <workItem from="1712475897631" duration="11122000" />
     </task>
     <servers />
   </component>
