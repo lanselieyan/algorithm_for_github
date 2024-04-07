@@ -15,6 +15,11 @@ class Solution {
         // 开始滑动窗口模板
         while ($right < strlen($s)) {
             // 扩大窗口
+
+            //在 PHP 中使用一个数组 $windowCharCount 来记录窗口中不同字符出现的次数。
+            //$s[$right] 是指字符串 $s 中索引为 $right 的字符，ord() 函数返回字符的 ASCII 值，
+            //通过减去 'A' 的 ASCII 值可以将大写字母映射到 0-25 的范围内（因为大写字母的 ASCII 值是连续的），
+            //然后将对应位置的计数加一，从而记录窗口中字符的出现次数。
             $windowCharCount[ord($s[$right]) - ord('A')]++;
             $windowMaxCount = max($windowMaxCount, $windowCharCount[ord($s[$right]) - ord('A')]);
             $right++;
