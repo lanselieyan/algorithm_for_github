@@ -6,7 +6,6 @@ class solution{
             return 0;
         }
 
-//test
     }
 
 
