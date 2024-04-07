@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ba23fc1-0d86-448a-b8b2-2d3a42f72cba" name="Changes" comment="" />
+    <list default="true" id="3ba23fc1-0d86-448a-b8b2-2d3a42f72cba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/滑动窗口/最小覆盖子串.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +32,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/滑动窗口" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712470752149</updated>
       <workItem from="1712470753731" duration="2639000" />
-      <workItem from="1712475897631" duration="2133000" />
+      <workItem from="1712475897631" duration="5674000" />
     </task>
     <servers />
   </component>
