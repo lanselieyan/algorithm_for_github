@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ba23fc1-0d86-448a-b8b2-2d3a42f72cba" name="Changes" comment="" />
+    <list default="true" id="3ba23fc1-0d86-448a-b8b2-2d3a42f72cba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/滑动窗口/medium424替换后的最长重复字符.php" beforeDir="false" afterPath="$PROJECT_DIR$/滑动窗口/medium424替换后的最长重复字符.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712470752149</updated>
       <workItem from="1712470753731" duration="2639000" />
-      <workItem from="1712475897631" duration="12411000" />
+      <workItem from="1712475897631" duration="12720000" />
     </task>
     <servers />
   </component>
