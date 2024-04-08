@@ -1,4 +1,7 @@
 <?php
+
+//写一个算法，输入是一个正整数 n，输出是 n 对儿括号的所有合法组合
+
 function generateParenthesis($n) {
     if ($n == 0) return array();
     // 记录所有合法的括号组合
