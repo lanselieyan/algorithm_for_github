@@ -17,7 +17,6 @@ class Solution {
         }
         return max($nums[$l] + $this->last($nums, $l + 1, $r), $nums[$r] + $this->last($nums, $l, $r - 1));
     }
-
     function last($nums, $l, $r) {
         if ($l == $r) {
             return 0;
